@@ -1,0 +1,240 @@
+body{
+    background: linear-gradient(to bottom, #669999 0%, #009900 100%);
+}
+.slides {
+    padding: 5px;
+    border: 10px solid #1582082e;
+}
+
+.main-home {
+    background: #ddd;
+}
+
+.slctr {
+    background: #fff;
+    padding: 8px 15px;
+    border: 10px solid #bbcab5;
+}
+
+.bus-footer {
+    background: #3a3a3ae3;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.footer-links li {
+    list-style: none;
+}
+
+.footer-links {
+    text-align: center;
+}
+
+.social-icons li {
+    list-style: none;
+    display: inline-block;
+}
+
+.social-icons {
+    text-align: center;
+    padding-left: 0;
+}
+
+i.fa.fa-facebook {
+    background: #0062cc;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+
+}
+i.fa.fa-twitter{
+    background: #05aadc;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+}
+
+i.fa.fa-linkedin{
+    background: #224b77;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 25px;
+    color: #fff;
+    text-align: center;
+    margin: 10px;
+}
+
+.separtr{
+    text-align: center;
+}
+.copyright {
+    background: #5d4b4b;
+    padding: 0px 0;
+    text-align: center;
+}
+
+.copyright-text {
+    padding-top: 10px;padding-bottom: 10px;
+}
+
+.marquee {
+    margin: 0 40px;
+}
+
+.search-inline {
+    background: #735757;
+    padding: 10px 15px;
+}
+
+.search-inline label {
+    margin: 12px 5px 12px 40px;
+}
+
+.search-inline button {
+    margin-left: 30px;
+}
+
+#collapsibleNavbar {
+    margin-left: 50%;
+    font-size: 13px;
+}
+
+table th {
+    font-size: 12px;
+}
+
+table td {
+    font-size: 10px;
+}
+.seat-content{
+    display: none;
+}
+
+.full-bogy {
+    padding: 20px;
+    background: #5d4747;
+    margin: 0 0px;
+}
+
+.full-bogy button {
+    padding: 5px 14px;
+    font-size: 16px;
+    background: #1e7e34;
+    border-radius: 5px;
+}
+.seat-pattern {
+    margin-left: 18px;
+}
+
+.full-bogy button:hover {
+    background: #a24242;
+    transition: .4s;
+}
+
+button.booked-seat{
+    background: #a24242;
+}
+
+
+.customer-info label {
+    width: 65px;
+    font-size: 12px;
+}
+
+.customer-info {
+    background: #ad9696;
+    padding: 20px 20px;
+    margin: 0 auto;
+}
+
+.customer-info .form-group {
+    margin-bottom: 20px !important;
+}
+
+.customer-info select.form-control {
+    width: 75% !important;
+}
+
+
+.search-inline select.form-control {
+    margin: 0 10px;
+}
+
+span.ttl-st {
+    margin-left: 30px;
+}
+
+div#forsess {
+    text-align: center;
+    margin: 0 auto !important;
+    padding: 0 !important;
+}
+
+div#seatval_A {
+    margin: 0 auto;
+    padding: 0;
+}
+
+span.seat-slct {
+    border: 1px solid #ddd;
+    padding: 5px 8px;
+    background: #a24242;
+    color: #fff;
+}
+
+span.ttl-st {
+    margin-left: 30px;
+    color: #ceff0c;
+    font-size: 20px;
+}
+
+span.st-hding {
+    font-size: 18px;
+    color: #cdfd0f;
+}
+
+h2.tc {
+    margin: 0 auto;
+    padding: 20px;
+}
+.prnt-btn {
+    padding: 10px 40px;
+    margin: 30px 0;
+}
+
+.total-body a{
+text-decoration: none;
+}
+.total-body.log-sign .navbar {
+    margin-bottom: 0;
+}
+
+.total-body.log-sign .navbar li.nav-item {
+    list-style: none;
+    margin-top: 15px;
+}
+
+.total-body.log-sign .navbar-inverse .navbar-nav > li > a {
+    color: #999;
+    padding: 15px;
+}
+
+.pas-login-area {
+    padding: 45px;
+    background: #dddddd82;
+    margin-top: 30px;
+}
+
+.reg-sec {
+    background: #ddd;
+    margin-top: 35px;
+}
